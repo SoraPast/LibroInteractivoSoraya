@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+header {
+    display: block;
+    text-align: center;
+}
+image {
+    display: block;
+    align-content: center;
+}
+section {
+    display: block;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+nav {
+    display: block;
+    text-align: center;
+}
+a {
+    font-size: large;
+}
+footer {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: lightgrey;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    text-decoration-color: white;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
